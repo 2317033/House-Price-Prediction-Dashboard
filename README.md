@@ -225,19 +225,19 @@ This project is developed for educational, learning, and internship purposes onl
 
 ## 📸 Project Screenshots
 
+## 📸 Project Screenshots
+
 ### 🏠 Dashboard Overview
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 📊 Dataset Analysis
-![Dataset Analysis](./screenshots/dataset_analysis.png)
+![Dataset Analysis](dataset_analysis.png)
 
 ### 📋 Statistical Summary
-![Statistical Summary](./screenshots/statistical_summary.png)
+![Statistical Summary](statistical_summary.png)
 
 ### 🌡️ Correlation Heatmap
-![Correlation Heatmap](./screenshots/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### 🤖 House Price Prediction Result
-![Prediction Result](./screenshots/prediction_result.png)
-
----
+![Prediction Result](prediction_result.png)
