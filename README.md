@@ -151,7 +151,7 @@ House-Price-Prediction/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/House-Price-Prediction.git
+https://github.com/2317033/House-Price-Prediction-Dashboard
 ```
 
 ### Step 2: Navigate to Project Folder
@@ -223,34 +223,21 @@ This project is developed for educational, learning, and internship purposes onl
 
 ---
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
-## 1️⃣ Dashboard Overview
+### 🏠 Dashboard Overview
+![Dashboard](./screenshots/dashboard.png)
 
-![Dashboard](screenshots/dashboard.png)
+### 📊 Dataset Analysis
+![Dataset Analysis](./screenshots/dataset_analysis.png)
 
----
+### 📋 Statistical Summary
+![Statistical Summary](./screenshots/statistical_summary.png)
 
-## 2️⃣ Dataset Analysis
+### 🌡️ Correlation Heatmap
+![Correlation Heatmap](./screenshots/correlation_heatmap.png)
 
-![Dataset Analysis](screenshots/dataset_analysis.png)
-
----
-
-## 3️⃣ Statistical Summary
-
-![Statistical Summary](screenshots/statistical_summary.png)
-
----
-
-## 4️⃣ Correlation Heatmap
-
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
-
----
-
-## 5️⃣ House Price Prediction Result
-
-![Prediction Result](screenshots/prediction_result.png)
+### 🤖 House Price Prediction Result
+![Prediction Result](./screenshots/prediction_result.png)
 
 ---
